@@ -1,0 +1,2 @@
+# QuotePicker
+ generating random quote
